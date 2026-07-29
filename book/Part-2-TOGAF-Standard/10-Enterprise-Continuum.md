@@ -253,3 +253,17 @@ By embracing the Enterprise Continuum, SwiftShip transforms isolated architectur
 # Next Chapter
 
 **Chapter 11 – Architecture Repository: Preserving the Enterprise's Architectural Memory**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 9 – Architecture Vision](09-Architecture-Vision.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 11 – Architecture Repository](11-Architecture-Repository.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

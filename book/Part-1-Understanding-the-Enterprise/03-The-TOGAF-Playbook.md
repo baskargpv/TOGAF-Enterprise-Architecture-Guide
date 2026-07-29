@@ -213,3 +213,17 @@ The CEO smiles.
 > "Now that we have a framework, show us **how it works**."
 
 In Chapter 4, we explore the building blocks of the TOGAF Standard and the concepts that every Enterprise Architect should understand before beginning the Architecture Development Method.
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 2 – Why Enterprise Architecture Matters](02-Why-Enterprise-Architecture-Matters.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 4 – Understanding the TOGAF Standard](04-Understanding-the-TOGAF-Standard.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

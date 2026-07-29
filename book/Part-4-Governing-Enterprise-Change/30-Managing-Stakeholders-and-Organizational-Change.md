@@ -293,3 +293,17 @@ SwiftShip is now ready to focus on developing the next generation of Enterprise 
 # Next Chapter
 
 **Chapter 31 – Architecture Skills, Competencies & Career Paths**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 29 – Enterprise Portfolio Management](29-Enterprise-Portfolio-Management.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 31 – Architecture Skills Competencies and Career Paths](31-Architecture-Skills-Competencies-and-Career-Paths.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

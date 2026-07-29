@@ -244,3 +244,15 @@ You reply:
 You have completed the journey from TOGAF fundamentals to modern Enterprise Architecture.
 
 The principles in this book are intended not only to help you pass the TOGAF Foundation and Practitioner examinations, but also to equip you to lead real-world digital transformation initiatives with confidence.
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 39 – Sustainability and Green Enterprise Architecture](39-Sustainability-and-Green-Enterprise-Architecture.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

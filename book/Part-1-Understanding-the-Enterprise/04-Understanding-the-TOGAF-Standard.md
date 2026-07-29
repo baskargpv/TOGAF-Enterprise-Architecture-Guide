@@ -225,3 +225,17 @@ Use the **Architecture Repository**, supported by the **Enterprise Continuum**, 
 # Next Chapter
 
 **Chapter 5 – Meet the Architecture Development Method (ADM): The Roadmap for Enterprise Transformation**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 3 – The TOGAF Playbook](03-The-TOGAF-Playbook.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 5 – Meet the Architecture Development Method ADM](05-Meet-the-Architecture-Development-Method-ADM.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

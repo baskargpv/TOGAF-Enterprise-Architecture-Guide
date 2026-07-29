@@ -254,3 +254,17 @@ SwiftShip is ready to strengthen architecture governance across a growing portfo
 # Next Chapter
 
 **Chapter 28 – Architecture Governance in Practice**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 26 – Architecture Capability Framework](../Part-3-ADM/26-Architecture-Capability-Framework.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 28 – Architecture Governance in Practice](28-Architecture-Governance-in-Practice.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

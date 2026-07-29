@@ -263,3 +263,17 @@ You reply:
 # Next Chapter
 
 **Chapter 35 – Data-Driven Enterprise Architecture**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 33 – Enterprise Architecture in the Cloud Era](33-Enterprise-Architecture-in-the-Cloud-Era.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 35 – Data Driven Enterprise Architecture](35-Data-Driven-Enterprise-Architecture.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

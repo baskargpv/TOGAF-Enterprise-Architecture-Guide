@@ -275,3 +275,17 @@ SwiftShip has established a governance model that enables innovation while maint
 # Next Chapter
 
 **Chapter 29 – Enterprise Portfolio Management**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 27 – Establishing the Enterprise Architecture Office](27-Establishing-the-Enterprise-Architecture-Office.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 29 – Enterprise Portfolio Management](29-Enterprise-Portfolio-Management.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

@@ -240,3 +240,17 @@ SwiftShip is now ready for the next part of Phase C, where the enterprise applic
 # Next Chapter
 
 **Chapter 19 – Phase C: Application Architecture**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 17 – Phase B Business Architecture](17-Phase-B-Business-Architecture.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 19 – Phase C Application Architecture](19-Phase-C-Application-Architecture.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

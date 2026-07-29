@@ -128,3 +128,17 @@ Establish governance, roles, repositories, standards, skills development, and co
 # Next Chapter
 
 **Chapter 27 – Establishing the Enterprise Architecture Office**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 25 – Requirements Management Across the ADM](25-Requirements-Management-Across-the-ADM.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 27 – Establishing the Enterprise Architecture Office](../Part-4-Governing-Enterprise-Change/27-Establishing-the-Enterprise-Architecture-Office.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

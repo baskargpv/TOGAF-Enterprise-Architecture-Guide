@@ -286,3 +286,17 @@ SwiftShip is now ready to enter **Phase B – Business Architecture**, where the
 # Next Chapter
 
 **Chapter 17 – Phase B: Business Architecture**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 15 – Preliminary Phase](15-Preliminary-Phase.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 17 – Phase B Business Architecture](17-Phase-B-Business-Architecture.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

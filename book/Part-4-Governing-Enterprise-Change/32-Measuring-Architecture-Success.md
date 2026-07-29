@@ -275,3 +275,17 @@ Congratulations! You have completed **Part IV – Governing Enterprise Change**.
 # Looking Ahead
 
 **Part V – Enterprise Architecture in the Modern Digital Enterprise** (Cloud, AI, Data, Agile, DevSecOps, Sustainability, and the Future of Enterprise Architecture)
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 31 – Architecture Skills Competencies and Career Paths](31-Architecture-Skills-Competencies-and-Career-Paths.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 33 – Enterprise Architecture in the Cloud Era](../Part-5-Modern-Enterprise-Architecture/33-Enterprise-Architecture-in-the-Cloud-Era.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

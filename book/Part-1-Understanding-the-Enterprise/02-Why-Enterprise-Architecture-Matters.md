@@ -243,3 +243,17 @@ Understand the enterprise strategy and assess impacts across business capabiliti
 In Chapter 3, we answer the next executive question:
 
 > **Why do organizations around the world choose TOGAF as their Enterprise Architecture framework?**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 1 – Introduction to Enterprise Architecture](01-Introduction-to-Enterprise-Architecture.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 3 – The TOGAF Playbook](03-The-TOGAF-Playbook.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

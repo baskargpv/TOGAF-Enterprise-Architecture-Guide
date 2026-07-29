@@ -261,3 +261,17 @@ SwiftShip now has a single source of architectural truth that will guide every t
 # Next Chapter
 
 **Chapter 12 – Building Blocks: Designing with Reusable Components**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 10 – Enterprise Continuum](10-Enterprise-Continuum.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 12 – Architecture Building Blocks](12-Architecture-Building-Blocks.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

@@ -302,3 +302,17 @@ SwiftShip now has both the architecture capability and the talent needed to sust
 # Next Chapter
 
 **Chapter 32 – Measuring Architecture Success**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 30 – Managing Stakeholders and Organizational Change](30-Managing-Stakeholders-and-Organizational-Change.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 32 – Measuring Architecture Success](32-Measuring-Architecture-Success.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

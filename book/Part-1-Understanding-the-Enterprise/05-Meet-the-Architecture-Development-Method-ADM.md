@@ -202,3 +202,17 @@ The executive team is now ready to begin the first phase of SwiftShip's Enterpri
 # Next Chapter
 
 **Chapter 6 – Thinking Like an Enterprise Architect**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 4 – Understanding the TOGAF Standard](04-Understanding-the-TOGAF-Standard.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 6 – Thinking Like an Enterprise Architect](06-Thinking-Like-an-Enterprise-Architect.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

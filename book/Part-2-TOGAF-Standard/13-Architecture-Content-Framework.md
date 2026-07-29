@@ -282,3 +282,17 @@ SwiftShip's architecture documentation has evolved into a consistent, enterprise
 # Next Chapter
 
 **Chapter 14 – Architecture Governance: Keeping Enterprise Transformation on Course**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 12 – Architecture Building Blocks](12-Architecture-Building-Blocks.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 14 – Architecture Governance](14-Architecture-Governance.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

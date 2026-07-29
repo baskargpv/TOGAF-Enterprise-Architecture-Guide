@@ -254,3 +254,17 @@ SwiftShip now understands how reusable Building Blocks create a flexible, sustai
 # Next Chapter
 
 **Chapter 13 – Architecture Content Framework: Organizing Enterprise Knowledge**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 11 – Architecture Repository](11-Architecture-Repository.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 13 – Architecture Content Framework](13-Architecture-Content-Framework.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

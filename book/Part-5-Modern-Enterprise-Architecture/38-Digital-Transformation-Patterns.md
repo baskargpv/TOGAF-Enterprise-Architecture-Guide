@@ -228,3 +228,17 @@ Emma watches SwiftShip launch new digital services in days rather than months.
 # Next Chapter
 
 **Chapter 39 – Sustainability & Green Enterprise Architecture**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 37 – DevSecOps and Platform Engineering](37-DevSecOps-and-Platform-Engineering.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 39 – Sustainability and Green Enterprise Architecture](39-Sustainability-and-Green-Enterprise-Architecture.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

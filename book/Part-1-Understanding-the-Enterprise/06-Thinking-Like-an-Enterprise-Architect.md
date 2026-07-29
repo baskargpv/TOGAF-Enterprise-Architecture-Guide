@@ -242,3 +242,17 @@ With that understanding, SwiftShip is ready to begin its Enterprise Architecture
 You have completed **Part I – Understanding the Enterprise**.
 
 In **Part II**, we begin a deeper exploration of the TOGAF Standard and the architectural concepts that support successful enterprise transformation.
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 5 – Meet the Architecture Development Method ADM](05-Meet-the-Architecture-Development-Method-ADM.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 7 – Architecture Principles](../Part-2-TOGAF-Standard/07-Architecture-Principles.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

@@ -253,3 +253,17 @@ The organization is now ready to move from vision to detailed enterprise archite
 # Next Chapter
 
 **Chapter 10 – Enterprise Continuum: Reusing Knowledge Across the Enterprise**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 8 – Stakeholder Management](08-Stakeholder-Management.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 10 – Enterprise Continuum](10-Enterprise-Continuum.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

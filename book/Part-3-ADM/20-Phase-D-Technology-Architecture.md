@@ -307,3 +307,17 @@ With the target architecture complete, SwiftShip is ready to identify implementa
 # Next Chapter
 
 **Chapter 21 – Phase E: Opportunities & Solutions**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 19 – Phase C Application Architecture](19-Phase-C-Application-Architecture.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 21 – Phase E Opportunities and Solutions](21-Phase-E-Opportunities-and-Solutions.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

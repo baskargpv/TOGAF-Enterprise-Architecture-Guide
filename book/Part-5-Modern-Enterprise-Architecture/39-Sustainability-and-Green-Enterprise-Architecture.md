@@ -275,3 +275,17 @@ You reply:
 # Next Chapter
 
 **Chapter 40 – The Future Enterprise Architect**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 38 – Digital Transformation Patterns](38-Digital-Transformation-Patterns.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 40 – The Future Enterprise Architect](40-The-Future-Enterprise-Architect.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

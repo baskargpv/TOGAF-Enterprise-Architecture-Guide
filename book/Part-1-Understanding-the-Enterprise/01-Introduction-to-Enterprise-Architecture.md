@@ -237,3 +237,15 @@ Before introducing any framework, pause and consider these questions:
 In Chapter 2, we answer the CEO's question:
 
 > **What exactly is Enterprise Architecture, and why does SwiftShip need it?**
+
+---
+
+## 📖 Continue Reading
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 2 – Why Enterprise Architecture Matters](02-Why-Enterprise-Architecture-Matters.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

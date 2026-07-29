@@ -258,3 +258,17 @@ The executives now recognize that successful transformation depends as much on s
 # Next Chapter
 
 **Chapter 9 – Architecture Vision: Creating a Shared Destination**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 7 – Architecture Principles](07-Architecture-Principles.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 9 – Architecture Vision](09-Architecture-Vision.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

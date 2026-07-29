@@ -278,3 +278,17 @@ You reply:
 # Next Chapter
 
 **Chapter 38 – Digital Transformation Patterns**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 36 – Enterprise Architecture and Agile Delivery](36-Enterprise-Architecture-and-Agile-Delivery.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 38 – Digital Transformation Patterns](38-Digital-Transformation-Patterns.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

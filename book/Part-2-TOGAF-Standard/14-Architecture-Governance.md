@@ -246,3 +246,17 @@ You have completed **Part II – The TOGAF Standard**.
 The executive team now understands the principles, governance, repositories, content, and reusable assets that support Enterprise Architecture.
 
 The next stage of the journey begins with **Part III – Architecture Development Method (ADM)**, where SwiftShip starts the Preliminary Phase and progresses through Phases A to H in detail.
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 13 – Architecture Content Framework](13-Architecture-Content-Framework.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 15 – Preliminary Phase](../Part-3-ADM/15-Preliminary-Phase.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

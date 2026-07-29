@@ -237,3 +237,17 @@ SwiftShip is now ready for **Phase C – Data Architecture**, where enterprise i
 # Next Chapter
 
 **Chapter 18 – Phase C: Data Architecture**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 16 – Phase A Architecture Vision](16-Phase-A-Architecture-Vision.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 18 – Phase C Data Architecture](18-Phase-C-Data-Architecture.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

@@ -278,3 +278,17 @@ You reply:
 # Next Chapter
 
 **Chapter 37 – DevSecOps & Platform Engineering**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 35 – Data Driven Enterprise Architecture](35-Data-Driven-Enterprise-Architecture.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 37 – DevSecOps and Platform Engineering](37-DevSecOps-and-Platform-Engineering.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

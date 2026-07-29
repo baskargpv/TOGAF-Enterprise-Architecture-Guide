@@ -282,3 +282,17 @@ SwiftShip is now ready for the next frontier—Artificial Intelligence.
 # Next Chapter
 
 **Chapter 34 – Enterprise Architecture for AI & Intelligent Enterprises**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 32 – Measuring Architecture Success](../Part-4-Governing-Enterprise-Change/32-Measuring-Architecture-Success.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 34 – Enterprise Architecture for AI and Intelligent Enterprises](34-Enterprise-Architecture-for-AI-and-Intelligent-Enterprises.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

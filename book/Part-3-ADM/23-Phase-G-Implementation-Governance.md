@@ -249,3 +249,17 @@ With implementation underway, SwiftShip is prepared for the final ADM phase: **P
 # Next Chapter
 
 **Chapter 24 – Phase H: Architecture Change Management**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 22 – Phase F Migration Planning](22-Phase-F-Migration-Planning.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 24 – Phase H Architecture Change Management](24-Phase-H-Architecture-Change-Management.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

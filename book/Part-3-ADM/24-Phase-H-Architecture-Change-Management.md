@@ -259,3 +259,17 @@ SwiftShip now has a sustainable architecture practice capable of supporting futu
 # Next Chapter
 
 **Chapter 25 – Requirements Management Across the ADM**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 23 – Phase G Implementation Governance](23-Phase-G-Implementation-Governance.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 25 – Requirements Management Across the ADM](25-Requirements-Management-Across-the-ADM.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

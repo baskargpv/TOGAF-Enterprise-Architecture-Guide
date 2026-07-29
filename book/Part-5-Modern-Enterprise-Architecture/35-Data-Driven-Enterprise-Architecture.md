@@ -270,3 +270,17 @@ You reply:
 # Next Chapter
 
 **Chapter 36 – Enterprise Architecture & Agile Delivery**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 34 – Enterprise Architecture for AI and Intelligent Enterprises](34-Enterprise-Architecture-for-AI-and-Intelligent-Enterprises.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 36 – Enterprise Architecture and Agile Delivery](36-Enterprise-Architecture-and-Agile-Delivery.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

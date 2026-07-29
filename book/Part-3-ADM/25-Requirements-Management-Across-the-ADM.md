@@ -249,3 +249,17 @@ Congratulations! You have completed **Part III – Architecture Development Meth
 # Next Part
 
 **Part IV – Governing Enterprise Change**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 24 – Phase H Architecture Change Management](24-Phase-H-Architecture-Change-Management.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 26 – Architecture Capability Framework](26-Architecture-Capability-Framework.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

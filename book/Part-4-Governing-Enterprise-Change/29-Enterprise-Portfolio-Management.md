@@ -262,3 +262,17 @@ SwiftShip is now ready to focus on the people side of transformation: engaging s
 # Next Chapter
 
 **Chapter 30 – Managing Stakeholders & Organizational Change**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 28 – Architecture Governance in Practice](28-Architecture-Governance-in-Practice.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 30 – Managing Stakeholders and Organizational Change](30-Managing-Stakeholders-and-Organizational-Change.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.

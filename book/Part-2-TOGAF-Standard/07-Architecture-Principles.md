@@ -258,3 +258,17 @@ You nod.
 # Next Chapter
 
 **Chapter 8 – Stakeholder Management: Building Consensus Across the Enterprise**
+
+---
+
+## 📖 Continue Reading
+
+⬅️ **Previous:** [Chapter 6 – Thinking Like an Enterprise Architect](../Part-1-Understanding-the-Enterprise/06-Thinking-Like-an-Enterprise-Architect.md)
+
+🏠 **Home:** [📚 Table of Contents](../../../README.md)
+
+➡️ **Next:** [Chapter 8 – Stakeholder Management](08-Stakeholder-Management.md)
+
+---
+
+© 2026 **Baskar Periasamy** • Licensed under the MIT License.
