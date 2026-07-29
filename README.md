@@ -206,36 +206,6 @@ Baskar Periasamy & Hemadri T J
 [LinkedIn: https://www.linkedin.com/in/hemadritj/]
 
 
-📘 Book Title
-
-📷 Book Cover
-
-About the Book
-
-Who Should Read This Book?
-
-What You'll Learn
-
-Table of Contents
-
-Part I
-
-Part II
-
-Part III
-
-Part IV
-
-Part V
-
-Book Features
-
-Repository Structure
-
-SwiftShip Global
-
-Additional Resources
-
 License
 
 Author
