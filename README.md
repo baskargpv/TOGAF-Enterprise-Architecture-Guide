@@ -204,8 +204,3 @@ Baskar Periasamy & Hemadri T J
 
 [LinkedIn: https://www.linkedin.com/in/baskar-periasamy/]
 [LinkedIn: https://www.linkedin.com/in/hemadritj/]
-
-
-License
-
-Author
